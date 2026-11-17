@@ -1,0 +1,15 @@
+{
+	"name": "adf-nycpayroll-diogo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81974121-0b47-4ce2-92f6-47f2be4d0f22",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
